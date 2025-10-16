@@ -43,10 +43,10 @@ I’m a **Full Stack Mobile & Web Developer** with a deep focus on:
 
 ---
 
-### ☕ Support My Work  
-If you enjoy my open-source work or want to fuel innovation —  
-💸 Tip me directly at **`0x3aEC026d2DE3654846684d9ABfAc5b90E6d9193D`**  
-(Any EVM chain — ETH, USDT, or USDC appreciated 🙌)
+### ☕ Support My Work
+If you enjoy my open-source work or want to fuel innovation, you can **buy me a coffee**:
+
+[![Ko-fi](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=ko-fi&logoColor=black&labelColor=white&style=for-the-badge)](https://ko-fi.com/vijay_softment)
 
 ---
 
